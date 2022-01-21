@@ -18,6 +18,6 @@ menu:
 Hey! My name is Benjamin. 👋
 
 I'm sixteen years old and I am interested in the web, linux and tech in general.
-I somethimes develop web applications using Vue and Tailwind.
+I somethimes develop web applications using Vue and Tailwind. (You can find my work mostly on [Codeberg](https://codeberg.org/benjaminwolkchen))
 
 I do hobby photography. You can find some of my photos [here](https://darkshark9k.ml/categories/photos/) and on [Pixelfed](https://pixey.org/@benjamin).

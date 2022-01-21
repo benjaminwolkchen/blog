@@ -6,7 +6,7 @@ links:
     website: https://mstdn.social/@hbenjamin
     image: mastodon-square.svg
   - title: Matrix
-    description: Matrix is a messaging platform based on the 
+    description: Matrix is a messaging platform based on the standard of the same name
     website: https://matrix.to/#/@hbenjamin:stux.chat
     image: matrix-org.svg
   - title: Codeberg
