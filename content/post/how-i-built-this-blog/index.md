@@ -15,7 +15,3 @@ My opinion is, blogs should have a comments section or some sort of feedback spa
 For the comment sections on this blog, I use [CactusComments](https://cactus.chat) which is a comment provider using matrix as the comments store.
 
 That's it. Thank you for reading day one of [#100DaysToOffload](https://darkshark9k.ml/tags/100daystooffload/).
-
-* * *
-## Comments
-{{< cactus-comments how-i-built-this-blog >}}

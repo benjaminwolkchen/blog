@@ -38,8 +38,3 @@ Because of that, you can also use Anytype on your Smartphone:
 
 One thing I noticed with the desktop app is that is always launches in full-screen mode and it feels kinda sluggish.
 I probably won't continue to use it for now, but we'll see how Anytype evolves.
-
-
-* * *
-## Comments
-{{< cactus-comments anytype >}}
