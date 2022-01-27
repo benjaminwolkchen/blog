@@ -24,4 +24,7 @@ The game isn't endless, it has a ending that is (as far as I can remember) reall
 
 [ -> https://cirri.al/sharks/ ](https://cirri.al/sharks/)
 
-And from that game, I got my username. Thanks for reading! ♥
+And from that game, I got my username. 
+How did you get your's?
+
+Thanks for reading! ♥
