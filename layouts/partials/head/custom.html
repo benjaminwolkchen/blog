@@ -1,0 +1,17 @@
+<style>
+:root {
+    --article-font-family: "Inter", var(--base-font-family);
+}
+</style>
+
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://rsms.me/inter/inter.css";
+    
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+    
+        document.head.appendChild(customFont);
+    }());
+</script>
