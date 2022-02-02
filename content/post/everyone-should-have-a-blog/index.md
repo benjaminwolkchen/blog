@@ -1,7 +1,7 @@
 ---
 title: "Everyone Should Have a Blog"
 date: 2022-02-02T10:57:29+01:00
-draft: true
+draft: false
 image: "cover.jpg"
 ---
 I think everyone should have a blog, let me expain why.
