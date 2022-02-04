@@ -1,6 +1,6 @@
 ---
 title: "Magazine: Kruger National Park"
-date: 2022-02-03T16:30:50+01:00
+date: 2022-02-04T16:30:50+01:00
 draft: false
 image: "https://res.cloudinary.com/darkshark9k/image/upload/v1643984546/krugernationalpark-cover_gxrwzm.jpg"
 ---
@@ -16,3 +16,9 @@ The park was named after Paul Kruger - he was president of the South African Rep
 The first three tourists came into the park in 1926, one year after that, guides were hired and fences were put up.
 
 Today, more than a million visitors come to visit the park every year.
+People come into the park to experience the closeness to the wild animals and enjoy safaris.
+
+There are countless options how the park can be experienced. You can book a guided safari, adventure safaris and experience the park on your own.
+You can also stay in a hotel while enjoying typical african food in one of the countless restaurants.
+
+Heaps of possibilities are there for you to enjoy the beautiful landscape and animals in the Kruger National Park.
