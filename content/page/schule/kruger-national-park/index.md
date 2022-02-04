@@ -1,7 +1,7 @@
 ---
 title: "Magazine: Kruger National Park"
 date: 2022-02-03T16:30:50+01:00
-draft: true
+draft: false
 image: "https://res.cloudinary.com/darkshark9k/image/upload/v1643984546/krugernationalpark-cover_gxrwzm.jpg"
 ---
 In between a flat land and vast mountain ranges live the most endangered and protected animals on earth - in the Kruger National Park.
