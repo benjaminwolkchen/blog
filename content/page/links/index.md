@@ -5,6 +5,10 @@ links:
     description: Mastodon is a social media platform based on the ActivityPub Standard. It is part of the "Fediverse".
     website: https://mstdn.social/@hbenjamin
     image: mastodon-square.svg
+  - title: Pixelfed
+    description: Pixelfed is a photo-sharing site based on the ActivityPub Standard. It is part of the "Fediverse".
+    website: https://pixey.org/@benjamin
+    image: pixelfed.svg
   - title: Matrix
     description: Matrix is a messaging platform based on the standard of the same name
     website: https://matrix.to/#/@hbenjamin:stux.chat
