@@ -2,7 +2,7 @@
 title: "Sad days"
 date: 2022-02-05T19:16:46+01:00
 draft: false
-image: "IMG_20220205_160335305_HDR.jpg"
+image: "IMG_20220205_160335305_HDR.webp"
 tags: ["100DaysToOffload"]
 categories: ["photos"]
 ---
@@ -14,7 +14,7 @@ Normally I take a walk around our neigbourhood every few days but the weather ha
 
 The sun was just setting and it kinda peeked through the cloud ceiling.
 
-![](IMG_20220205_160335305_HDR.jpg)
+![](IMG_20220205_160335305_HDR.webp)
 
 This view gives me hope. The big cloud ceiling is overwhelming and depressing, but the sun peeking through it just made me smile. Better times are to come.
 
@@ -22,7 +22,7 @@ The walk was relaxing and it really cleared my mind. I cried, I shouted my feeli
 
 On my way home I saw this cloud formation. For some reason it felt comforting and warm.
 
-![](IMG_20220205_164001974_HDR.jpg)
+![](IMG_20220205_164001974_HDR.webp)
 
 For me it looks like a lot of tiny sheep on a meadow. They seem random but are placed carefully by their creator.
 
