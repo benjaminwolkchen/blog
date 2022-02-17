@@ -195,3 +195,21 @@ markup:
         startLevel: 2
     highlight:
         noClasses: false
+
+privacy:
+  disqus:
+    disable: true
+  instagram:
+    disable: false
+    simple: true
+  twitter:
+    disable: false
+    enableDNT: true
+    simple: true
+  vimeo:
+    disable: false
+    enableDNT: true
+    simple: true
+  youtube:
+    disable: false
+    privacyEnhanced: true
