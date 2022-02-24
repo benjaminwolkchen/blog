@@ -3,7 +3,7 @@ title: "Sad days"
 date: 2022-02-05T19:16:46+01:00
 draft: false
 image: "IMG_20220205_160335305_HDR.webp"
-tags: ["100DaysToOffload"]
+tags: ["100DaysToOffload", "faith"]
 categories: ["photos"]
 ---
 I would describe myself as a pretty happy guy. But lately I had a few very sad days.

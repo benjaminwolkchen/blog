@@ -36,6 +36,11 @@ from = "/npmjs/*"
 to = "/npmjs/"
 status = 200
 
+# Opting your Website out of Google's FLoC Network
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Permissions-Policy = "interest-cohort=()"
 [[headers]]
   for = "/*.jpg"
   [headers.values]
