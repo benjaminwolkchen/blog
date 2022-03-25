@@ -11,7 +11,7 @@ links:
     image: pixelfed.svg
   - title: Matrix
     description: Matrix is a messaging platform based on the standard of the same name
-    website: https://matrix.to/#/@hbenjamin:stux.chat
+    website: https://matrix.to/#/@hbenjamin:kde.org
     image: matrix-org.svg
   - title: Telegram
     description: Telegram is a messaging platform with support for big groups and communities.

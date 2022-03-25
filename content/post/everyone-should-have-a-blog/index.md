@@ -4,11 +4,11 @@ date: 2022-02-02T10:57:29+01:00
 draft: false
 image: "cover.jpg"
 ---
-I think everyone should have a blog, let me expain why.
+I think everyone should have a blog, let me explain why.
 * * *
 ## Processing thoughts
 I started writing down my thoughts on the internet in 2016. (That's six years ago already 🤯)
-Back then, it was mostly thoughts about faith and my life with God. (I [still do that](https://awesomebible.de), it's german though.)
+Back then, it was mostly thoughts about faith and my life with God. (I [still do that](https://awesomebible.de), it's German, though.)
 
 This blog helped me process my thoughts and emotions.
 
