@@ -28,4 +28,4 @@ Do you know how Diamonds are made?
 
 Diamonds are made out of ashes. They're made by compressing the ashes really strong.
 
-And he's making Diamonds out of us, all the challenges that we face are the process of us becoming a beautiful and sturdy Diamond. ❤💎
+And he's making Diamonds out of us, all the challenges that we face, all the broken things in our life are the process of us becoming a beautiful and sturdy Diamond. ❤💎
