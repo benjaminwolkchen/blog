@@ -27,7 +27,7 @@ I see this so often and it's just sad: Youtube videos for "privacy minded" peopl
 Signal has it's criticisms - as does every single app or service that was ever created - that's not the point.
 It's sad that such videos get recommended to people who just start out.
 
-Those videos decourage people to even start their privacy journey, they may have valid points but the videos directly go all-in and overwhelm people.
+Those videos decourage people to even start thier privacy journey, they may have valid points but the videos directly go all-in and overwhelm people.
 
 Now comes the important part - write it down, print it out, just memorize it: 
 
@@ -35,7 +35,7 @@ Now comes the important part - write it down, print it out, just memorize it:
 
 It's way easier getting all your contacts to install Signal then to use Matrix for example. Matrix isn't bad, but the process of joining it isn't as simple as with Signal.
 
-Belive me, I've tried.
+Believe me, I've tried.
 
 ## Until then
 
