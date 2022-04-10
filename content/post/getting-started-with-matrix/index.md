@@ -104,3 +104,5 @@ As a starter, you can try messaging me at [@benjamin:mstdn.social](https://matri
 * * *
 
 P.S: This guide is published under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), so if you feel like translating or sharing it, it would mean a lot to me. ☺
+
+P.P.S: The comments of this blog are powered by Matrix. Try commenting with your account.
