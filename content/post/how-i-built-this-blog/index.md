@@ -3,7 +3,7 @@ title: "How I Built This Blog"
 date: 2022-01-21T13:30:25+01:00
 draft: false
 image: "alejandro-acosta-AwAf9HhhysQ-unsplash.jpg"
-tags: ["100DaysToOffload"]
+tags: ["100DaysToOffload", "tech"]
 ---
 I always wanted to blog but I never really found the setup that worked for me.
 In the past, I've used WordPress.com, I've used Hashnode and Ghost but nothing really kept me writing - so I didn't write anything for a long time.

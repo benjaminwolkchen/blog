@@ -3,6 +3,7 @@ title: "Getting Started With Matrix"
 date: 2022-04-10T22:30:14+02:00
 draft: false
 image: "cover.png"
+tags: ["tech"]
 ---
 Maybe you have heard of so-called decentralized messengers and want to know what the fuzz is about, or you have seen one of those messenger comparison charts, or maybe, your friend send you here.
 

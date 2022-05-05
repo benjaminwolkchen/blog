@@ -2,7 +2,7 @@
 title: "Private Messaging"
 date: 2022-02-10T18:00:33+01:00
 draft: false
-tags: ["100DaysToOffload"]
+tags: ["100DaysToOffload", "tech"]
 ---
 There are a plethora of messaging apps available to date.
 I wanted to take a look at some good and some better ones.
