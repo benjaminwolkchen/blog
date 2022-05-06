@@ -68,3 +68,5 @@ But Scoop isn't the only package manager that is available. Some alternatives ar
 Of course there is also winget, Microsoft's own package manager, but it doesn't have that many packages available at the time of writing this.
 
 In the end, it doesn't matter what package manager you choose, they all will make your installation experience easier. *And now go install linux.* 😜
+
+**[This article has a Part 2: Package Management on Linux](https://darkshark9k.ml/p/package-management-on-linux/)**
