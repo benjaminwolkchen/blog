@@ -51,7 +51,7 @@ or, if you wanted to add a specific bucket you have the Git URL to, just type:
 scoop bucket add <git url here>
 ```
 
-There are a plethora of buckets available, from [font collections](https://scoop.sh/#/apps?q=%22https%3A%2F%2Fgithub.com%2Fmatthewjberger%2Fscoop-nerd-fonts%22) to [Java](https://scoop.sh/#/apps?q=%22https%3A%2F%2Fgithub.com%2FScoopInstaller%2FJava%22[) or [PHP](https://scoop.sh/#/apps?q=%22https%3A%2F%2Fgithub.com%2FScoopInstaller%2FPHP%22) installers.
+There are a plethora of buckets available, from [font collections](https://scoop.sh/#/apps?q=%22https%3A%2F%2Fgithub.com%2Fmatthewjberger%2Fscoop-nerd-fonts%22) to [Java](https://scoop.sh/#/apps?q=%22https%3A%2F%2Fgithub.com%2FScoopInstaller%2FJava%22) or [PHP](https://scoop.sh/#/apps?q=%22https%3A%2F%2Fgithub.com%2FScoopInstaller%2FPHP%22) installers.
 ### Installing software
 Now, installing software couldn't be easier. No more searching for installers or accepting User Account Control Popups.
 
