@@ -13,7 +13,7 @@ For example, say you would like to install LibreOffice on Windows, it would go s
 3. You are presented with a long list of links where you can find LibreOffice, *do you wanna download it from Softonic by any chance*?
 4. Find website where you can download the actual file. Click it, accept the User Account Control Prompt and wait while it installs.
 
-Now, enter package management. If you're on Linux, you will most likely be using something like ``apt``, ``dnf`` or ```pacman``.
+Now, enter package management. If you're on Linux, you will most likely be using something like ``apt``, ``dnf`` or ``pacman``.
 
 Installing packages here is easy:
 1. Open Terminal
@@ -63,7 +63,7 @@ Scoop installs programs in the home directory of the current user, because of th
 
 ## Wrapping up
 Scoop makes it way easier and safer to install software in windows environments.
-But Scoop isn't the only package manager that is available. Some alternatives are [Chocolatey]() which has a greater variety of software by default, but it doesn't circumvent UAC. It also is paid if you want to use it in an enterprise environment.
+But Scoop isn't the only package manager that is available. Some alternatives are [Chocolatey](https://chocolatey.org/) which has a greater variety of software by default, but it doesn't circumvent UAC. It also is paid if you want to use it in an enterprise environment.
 
 Of course there is also winget, Microsoft's own package manager, but it doesn't have that many packages available at the time of writing this.
 
