@@ -18,8 +18,11 @@ In the original article I said that scoop only ships open source apps in it's re
 I briefly mentioned Chocolatey, which has a larger collection of apps - some of them also commercial.
 
 ## The scary story about FLOSSing
-The distribution specific package managers mostly only ship open source apps - they are like scoop.
-The Chocolatey equivalent would be Snap.
+Many companies don't like it, if the community ships unofficial versions of the app in different packaging formats.
+
+So the distribution specific package managers mostly only ship open source apps - they are like scoop.
+
+The Chocolatey equivalent would be Snap. Chocolatey ships a lot of "unofficial" versions of commercial software.
 
 ### Snapd
 Snap - or Snapd, or Snappy or Snapcraft - is a distribution independent package manager.
