@@ -15,9 +15,12 @@ menu:
             icon: user
 ---
 
-Hey! My name is Benjamin. 👋
+Hey! My name is Benjamin and I run this site. 👋
 
-I'm sixteen years old and I am interested in the web, linux and tech in general.
+I'm sixteen years old, chistian and I am interested in the web, linux and tech in general.
 I somethimes develop web applications using Vue and Tailwind. (You can find my work mostly on [Codeberg](https://codeberg.org/benjaminwolkchen))
 
-I do hobby photography. You can find some of my photos [here](https://darkshark9k.ml/categories/photos/) and on [Pixelfed](https://pixey.org/@benjamin).
+I also do hobby photography. You can find some of my photos [here](https://darkshark9k.ml/categories/photos/) and on [Pixelfed](https://pixey.org/@benjamin).
+
+If you want to contact me, you can do that though various ways.
+My Email is [benjamin@awesomebible.de], you can also find me on [Mastodon](https://mstdn.social/@hbenjamin), [Matrix](https://matrix.to/#/@benjamin:mstdn.social) and [XMPP](xmpp:benjamin@linux.monster) (altough I don't check it that often.)
