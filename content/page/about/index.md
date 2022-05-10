@@ -7,7 +7,7 @@ aliases:
   - about-me
   - contact
 license: CC BY-NC-ND
-lastmod: '2022-01-21'
+lastmod: '2022-05-09'
 menu:
     main: 
         weight: -90
@@ -17,7 +17,7 @@ menu:
 
 Hey! My name is Benjamin and I run this site. 👋
 
-I'm sixteen years old, chistian and I am interested in the web, linux and tech in general.
+I'm seventeen years old, chistian and I am interested in the web, linux and tech in general.
 I somethimes develop web applications using Vue and Tailwind. (You can find my work mostly on [Codeberg](https://codeberg.org/benjaminwolkchen))
 
 I also do hobby photography. You can find some of my photos [here](https://darkshark9k.ml/categories/photos/) and on [Pixelfed](https://pixey.org/@benjamin).
