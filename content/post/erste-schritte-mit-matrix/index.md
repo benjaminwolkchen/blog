@@ -1,6 +1,6 @@
 ---
 title: "Erste Schritte mit Matrix"
-date: 2022-06-07T22:30:14+02:00
+date: 2022-06-07T17:30:14+02:00
 draft: false
 image: "cover.png"
 tags: ["tech"]
