@@ -100,7 +100,7 @@ Now, the second session is verified. It will import the encryption keys from the
 
 Great. Now for some actual chatting. 😛
 
-As a starter, you can try messaging me at [@hbenjamin:kde.org](https://matrix.to/#/@hbenjamin:kde.org) and tell me how it went.
+As a starter, you can try messaging me at [@hbenjamin:kde.org](https://matrix.to/#/@benjamin:mstdn.social) and tell me how it went.
 
 * * *
 
