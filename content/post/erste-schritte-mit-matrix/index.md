@@ -32,6 +32,7 @@ Der Client den du wählst, beeinflusst das Look and Feel von Matrix.
 
 Für den Einstieg empfehle ich [Element](https://element.io/getting-started) oder wenn du eine traditionellere Erfahrung haben willst, [SchildiChat](https://schildi.chat).
 
+Eine komplette Liste findest du hier: https://matrix.org/clients/.
 ### Registrieren & Konto einrichten
 In dieser Demo werde ich Element als meinen Client verwenden.
 
