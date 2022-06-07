@@ -37,7 +37,7 @@ params:
         avatar:
             enabled: true
             local: false
-            src: "avatar.jpg"
+            src: "/avatar.jpg"
 
     article:
         math: false
