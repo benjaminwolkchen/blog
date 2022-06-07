@@ -24,12 +24,13 @@ Um zu beginnen, musst du dir aussuchen, welche App du benutzen möchtest um auf 
 Für diese Demo werde ich ``matrix.org`` als meinen Homeserver benutzen. Du solltest dir aber einen Server aussuchen der dir gefällt. Sei es, weil die Domain cool ist, oder weil der Server bei dir in der Nähe steht.
 
 Ein guter Einstieg ist [diese Liste](https://joinmatrix.org/servers/)
-### Choosing a client
+
+### Einen Client auswählen
 Jetzt wo du dir einen Homeserver ausgesucht hast, musst du dir den Client - die App die du installierst - aussuchen.
 
 Der Client den du wählst, beeinflusst das Look and Feel von Matrix.
 
-Für den Einstieg empfehle ich [Element](https://element.io/getting-started) oder wenn du eine traditionellere Experience haben willst, [SchildiChat](https://schildi.chat)
+Für den Einstieg empfehle ich [Element](https://element.io/getting-started) oder wenn du eine traditionellere Erfahrung haben willst, [SchildiChat](https://schildi.chat).
 
 ### Registrieren & Konto einrichten
 In dieser Demo werde ich Element als meinen Client verwenden.
