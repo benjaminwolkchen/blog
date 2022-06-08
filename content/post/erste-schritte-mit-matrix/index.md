@@ -87,7 +87,7 @@ Dort hast du die möglichkeit, deine Sitzung mit einem anderen Gerät oder mit e
 Bei der Überprüfung mit einem Key-Backup wirst du aufgefordert, den Key Backup-Code einzugeben, der generiert oder im letzten Kapitel ausgewählt wurde.
 
 Aber ich empfehle das verifizieren mit einem anderen Gerät. 
-But I recommend verifying with another device. This will cause a "Verification requested" prompt to appear on one of your devices.
+Auf einem deiner Geräte wird eine "Verifizierung angefragt" Aufforderung angezeigt.
 
 ![Verification requested prompt](verification-requested.png)
  
