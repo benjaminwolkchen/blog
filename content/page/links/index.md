@@ -13,10 +13,6 @@ links:
     description: Matrix is a messaging platform based on the standard of the same name
     website: https://matrix.to/#/@benjamin:mstdn.social
     image: matrix-org.svg
-  - title: Telegram
-    description: Telegram is a messaging platform with support for big groups and communities.
-    website: https://t.me/benjamin_htm
-    image: telegram.svg
   - title: Codeberg
     description: Codeberg is a Git-Forge based on Gitea
     website: https://codeberg.org/benjaminwolkchen
