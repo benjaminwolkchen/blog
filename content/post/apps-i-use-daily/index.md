@@ -46,6 +46,8 @@ And of course, it's open source. Which isn't just an added plus, it's a must for
 ## Syncthing
 I use [Syncthing](https://syncthing.net/) to backup my photos from my phone to my laptop, and I also use it to sync the Signal Backups to my laptop.
 
+![The Syncthing Web UI](syncthing.png)
+
 Syncthing is the first cornerstone in my backup strategy. *Syncthing alone is never a backup.*
 
 On my Phone I use [Syncthing-Fork](https://f-droid.org/en/packages/com.github.catfriend1.syncthingandroid/) from F-Droid that includes battery optimizations and other fixes.
