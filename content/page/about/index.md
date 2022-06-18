@@ -23,4 +23,4 @@ I somethimes develop web applications using Vue and Tailwind. (You can find my w
 I also do hobby photography. You can find some of my photos [here](https://darkshark9k.ml/categories/photos/) and on [Pixelfed](https://pixey.org/@benjamin).
 
 If you want to contact me, you can do that though various ways.
-My Email is [benjamin@awesomebible.de](mailto:benjamin@awesomebible.de), you can also find me on [Mastodon](https://mstdn.social/@hbenjamin), [Matrix](https://matrix.to/#/@benjamin:mstdn.social) and [XMPP](xmpp:benhtm@trashserver.net) (altough I don't check it that often.)
+My Email is [benjamin@awesomebible.de](mailto:benjamin@awesomebible.de), you can also find me on [Mastodon](https://mstdn.social/@hbenjamin), [Matrix](https://matrix.to/#/@benjamin:mstdn.social) and [XMPP](xmpp:benhtm@trashserver.net).
