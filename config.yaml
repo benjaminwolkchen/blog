@@ -183,7 +183,7 @@ menu:
               icon: home
         - identifier: photos
           name: Photos
-          url: "https://pix.darkshark9k.ml"
+          url: "https://pixel.darkshark9k.ml"
           weight: -50
           params:
             newTab: true
