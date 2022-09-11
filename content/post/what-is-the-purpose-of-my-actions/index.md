@@ -2,6 +2,8 @@
 title: "What is the purpose of my actions?"
 date: 2022-09-11T20:13:35+02:00
 draft: false
+description: "If everything turns to dust, what drives me to do things?"
+image: "emily-hon-dQwijI66_Jw-unsplash.jpg"
 ---
 
 I could just live in the day and do whatever the new day wants from me, but I think it is very important to have a goal.
