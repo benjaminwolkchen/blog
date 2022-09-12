@@ -181,13 +181,13 @@ menu:
           params:
               newTab: false
               icon: home
-        - identifier: photos
-          name: Photos
-          url: "https://pixel.darkshark9k.ml"
+        - identifier: rss
+          name: Feed
+          url: "https://darkshark9k.ml/index.xml"
           weight: -50
           params:
             newTab: true
-            icon: camera
+            icon: rss
 
 related:
     includeNewer: true
