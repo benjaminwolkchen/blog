@@ -28,6 +28,8 @@ There you can choose to use a different DNS Server to the default and enter in t
 Below that you can also choose to enable DNS-over-TLS to encrypt DNS requests.
 NextDNS provides you with a DNS-over-TLS endpoint in the form of ``<abc123>.dns.nextdns.io``.
 
+![FritzBox DNS over TLS configuration](fritz-dot.png)
+
 NextDNS also allows you to identify devices in the logs. To use that feature you just modify the endpoint to ``This--Device-abc123.dns.nextdns.io``.
 
 FritzBox allows you to enter multiple DNS-over-TLS endpoints, but for network wide adblocking to function it is important to only have NextDNS configured.
