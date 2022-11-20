@@ -81,7 +81,7 @@ They also offer plans for business and education organizations.
 
 ## Privacy
 For such a service, privacy is important.
-I've read their privacy policy - yep. It's a breath of fresh air in the desert of 300 pages ong legalease privacy policies of other big services.
+I've read their [privacy policy](https://nextdns.io/privacy) - yep. It's a breath of fresh air in the desert of 300 pages ong legalease privacy policies of other big services.
 
 It's short and to the point.
 I'm happy with it.
