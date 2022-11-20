@@ -11,7 +11,7 @@ Currently I don't have a Raspberry Pi that I could run a Pihole on, but I still 
 ## What is NextDNS?
 NextDNS is an open DNS resolver that gives you the ability to use ad filter lists.
 
-You can use NextDNS as a "normal" DNS Resolver in most Browsers today, but if yo
+You can use NextDNS as a "normal" DNS Resolver in most browsers today (`dns.nextdns.io`), but if you sign up you get far more control.
 
 ## How to set up NextDNS
 
