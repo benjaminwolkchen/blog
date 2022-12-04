@@ -83,7 +83,7 @@ They also offer plans for business and education organizations.
 
 ## Privacy
 For such a service, privacy is important.
-I've read their [privacy policy](https://nextdns.io/privacy) - yep. It's a breath of fresh air in the desert of 300 pages ong legalease privacy policies of other big services.
+I've read their [privacy policy](https://nextdns.io/privacy) - yep, I actually did. It's a breath of fresh air in the desert of 300 pages long legalease privacy policies of other big services.
 
 It's short and to the point.
 I'm happy with it.
@@ -94,3 +94,9 @@ If you are looking to set up network wide adblocking - which you should - but yo
 Also: NextDNS still works if you leave your home and you don't have to do any sysadmin work. Though, if you are reading this you are probably at least a bit familiar with that kind of stuff. (A bit, haha get it).
 
 Okay, I'm gonna leave now... 🫠
+
+**Edit 1:** I retested the ping speeds from my phone and now I get a ping around 12 ms:
+
+![The ping times from my phone](ping-speeds-new.jpg)
+
+**Edit 2:** fix typo
