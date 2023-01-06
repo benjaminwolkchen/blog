@@ -1,30 +1,27 @@
-/* sora-600 - latin */
 @font-face {
-     font-family: 'Sora';
-     font-style: normal;
-     font-weight: 600;
-     font-display: swap;
-     src: local(''),
-          url('./Sora/sora-v11-latin-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-          url('./Sora/sora-v11-latin-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
-   }
-/* fira-sans-regular - latin */
+     font-family: 'GeneralSans-Variable';
+     src: url('./fonts/GeneralSans/GeneralSans-Variable.woff2') format('woff2'),
+          url('./fonts/GeneralSans/GeneralSans-Variable.woff') format('woff'),
+          url('./fonts/GeneralSans/GeneralSans-Variable.ttf') format('truetype');
+          font-weight: 200 700;
+          font-display: swap;
+          font-style: normal;
+}
 @font-face {
-     font-family: 'Fira Sans';
-     font-style: normal;
-     font-weight: 400;
-     font-display: swap;
-     src: local(''),
-          url('./FiraSans/fira-sans-v16-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-          url('./FiraSans/fira-sans-v16-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
-   }   
+     font-family: 'GeneralSans-Variable';
+     src: url('./fonts/GeneralSans/GeneralSans-VariableItalic.woff2') format('woff2'),
+          url('./fonts/GeneralSans/GeneralSans-VariableItalic.woff') format('woff'),
+          url('./fonts/GeneralSans/GeneralSans-VariableItalic.ttf') format('truetype');
+          font-weight: 200 700;
+          font-display: swap;
+          font-style: italic;
+}
 /* jetbrains-mono-regular - latin */
 @font-face {
-    font-family: 'JetBrains Mono';
-    font-style: normal;
-    font-weight: 400;
-    font-display: swap;
-    src: local(''),
-         url('./JetbrainsMono/jetbrains-mono-v11-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-         url('./JetbrainsMono/jetbrains-mono-v11-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
-  }
+     font-family: 'JetBrains Mono';
+     font-style: normal;
+     font-weight: 400;
+     src: local(''),
+          url('./fonts/JetbrainsMono/jetbrains-mono-v13-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+          url('./fonts/JetbrainsMono/jetbrains-mono-v13-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}

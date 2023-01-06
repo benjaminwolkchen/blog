@@ -37,7 +37,7 @@ params:
         avatar:
             enabled: true
             local: false
-            src: "/avatar.jpg"
+            src: "https://wsrv.nl/?url=https://avatars.githubusercontent.com/u/42138517&maxage=14d&output=webp"
 
     article:
         math: false
