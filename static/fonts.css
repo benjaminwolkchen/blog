@@ -15,7 +15,6 @@
           font-weight: 100 900;
           font-display: swap;
           font-style: normal;
-          font-variation-settings: 'wght' 400.0;
    }
 
    
@@ -27,7 +26,6 @@
           font-weight: 100 900;
           font-display: swap;
           font-style: italic;
-          font-variation-settings: 'wght' 400.0;
    }
 /* jetbrains-mono-regular - latin */
 @font-face {
