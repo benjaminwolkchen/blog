@@ -29,7 +29,7 @@ It won't stay quiet for long though: The moment you enter the first real region 
 In the first few minutes of the game, you get to know the people (or bugs and insects) that make up the world of Hollow Knight.
 The second you enter the first cave, you hear [another relly beautiful soundtrack](https://piped.adminforge.de/watch?v=eX4de4BH5lM&list=PLmOldskd2VbL7_t-NE9p6rEboq_v0AHko&index=3).
 
-I won't spoiler any early game interactions here, but my point is: The moment I discovered the Mapbug - Cornifer - I *really* fell in love with the game.
+I won't spoiler any early game interactions here, but my point is: The moment I discovered the Mapbug - Cornifer - I *really* fell in love with the game. Is is such a beautifully crafted encounter.
 I decided to not look up anything about the game - and I encourage you to do the same if you want to play it sometime in the future. It's worth it dicovering every little bit for yourself.
 And there is **a lot** to discover:
 
