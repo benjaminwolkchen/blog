@@ -1,5 +1,10 @@
 ---
-title: "Gott führt"
+title: Gott führt
+date: '2023-04-09'
+aliases:
+    - andacht
+license: CC BY-NC-ND
+lastmod: '2023-04-09'
 ---
 Ich weiß nicht, wie ihr das in eurem Leben wahrnehmt und ob ihr dieser Aussage zustimmen würdet.
 
