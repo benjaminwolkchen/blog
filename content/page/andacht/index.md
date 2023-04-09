@@ -22,7 +22,7 @@ In solchen Momenten gibt mir die Musik halt. Die Depri Songs von denen ich mich 
 Vor ungefähr zwei Wochen ist das Album "HOPE" von NF erschienen und es hätte für mich nicht an einem besseren Zeitpunkt passieren können.
 
 Das Lied HAPPY aus dem Album beschreibt dieses Gefühl der Schmerzen die ich manchmal habe, wie ich finde perfekt:
-https://youtu.be/vhumOLNSSJY (https://open.spotify.com/track/3ZEno9fORwMA1HPecdLi0R)
+{{< youtube vhumOLNSSJY >}}
 
 Der ganze Song ist wirklich nice, aber es gibt ein paar Zeilen die ich hervorheben möchte:
 
