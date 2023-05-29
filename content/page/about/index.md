@@ -17,10 +17,10 @@ menu:
 
 Hey! My name is Benjamin and I run this site. 👋
 
-I'm seventeen years old, chistian and I am interested in the web, linux and tech in general.
+I'm eighteen years old, chistian and I am interested in the web, linux and tech in general.
 I somethimes develop web applications using Vue and Tailwind. (You can find my work mostly on [Codeberg](https://codeberg.org/benjaminwolkchen))
 
 I also do hobby photography. You can find some of my photos [here](https://darkshark9k.ml/categories/photos/) and on [Pixelfed](https://pixey.org/@benjamin).
 
 If you want to contact me, you can do that though various ways.
-My Email is [benjamin@awesomebible.de](mailto:benjamin@awesomebible.de), you can also find me on [Mastodon](https://masto.ai/@benjamin), on Discord I'm darkshark#4133, on [Telegram](https://t.me/benjamin_htm) [Matrix](https://matrix.to/#/@benjamin:envs.net) and [XMPP](xmpp:benhtm@trashserver.net).
+My Email is [benjamin@awesomebible.de](mailto:benjamin@awesomebible.de), you can also find me on [Mastodon](https://masto.ai/@benjamin), on Discord I'm darkshark#4133, on [Telegram](https://t.me/benjamin_htm) [Matrix](https://matrix.to/#/@bendaha:beeper.com) and [XMPP](xmpp:benhtm@trashserver.net).
